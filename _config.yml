@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:https://scontent.fjrs23-1.fna.fbcdn.net/v/t39.30808-6/337005892_763313121769654_5076039752547725029_n.jpg?stp=dst-jpg_tt6&cstp=mx868x868&ctp=s868x868&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=jzBtT2iFDQUQ7kNvwH_qo8f&_nc_oc=AdoIbe4OguytRfGGxhL3jXKhE0erJmtB1N9c1D07BiJhE6sJC7Ym3q_L8gREREyeWKU&_nc_zt=23&_nc_ht=scontent.fjrs23-1.fna&_nc_gid=AcUyWzMu-W67zECOvMXn1Q&_nc_ss=7b2a8&oh=00_AQPWEesivv5W4ZcPviUWyaHo5EO7y3ronsIwLgM2fILkzA&oe=6AE58014
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
